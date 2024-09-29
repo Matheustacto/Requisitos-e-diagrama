@@ -6,4 +6,4 @@ Com base nesses requisitos, foi criado um diagrama que representa de forma visua
 
 Esse processo foi fundamental para garantir que o produto final atenda às expectativas, minimizando erros e retrabalho durante as fases seguintes de desenvolvimento
 
- 
+ Trabahlo de Matheus Tacto e Igor Sebastian;
